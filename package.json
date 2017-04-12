@@ -1,0 +1,9 @@
+{
+  "name": "iot-frontend-dashboard",
+  "version": "0.0.1",
+  "description": "Arcady Technight project",
+  "main": "index.js",
+  "repository": "https://github.com/ArcadyIT/iot-frontend-dashboard.git",
+  "author": "Arcady",
+  "license": "MIT"
+}
